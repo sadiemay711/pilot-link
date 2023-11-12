@@ -1,0 +1,4 @@
+libpisock_la-threadsafe.lo: threadsafe.c /usr/include/stdc-predef.h \
+ ../include/pi-threadsafe.h
+/usr/include/stdc-predef.h:
+../include/pi-threadsafe.h:
