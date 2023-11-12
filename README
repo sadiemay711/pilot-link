@@ -1,3 +1,12 @@
+Intro:
+This is my building fork of pilot-link
+
+It's based off of version 0.12.5 and uses Lana-Chan's commit 367f1f5 for patching libpng
+
+
+
+Archived README:
+
 pilot-link -- Palm Handheld Glue - http://www.pilot-link.org
 
 The code and other related files in this distribution are licensed under the
